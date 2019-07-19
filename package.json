@@ -1,0 +1,19 @@
+{
+  "name": "softwareframeworks",
+  "version": "1.0.0",
+  "description": "3813ICT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenDutton/SoftwareFrameworks.git"
+  },
+  "author": "Steven Dutton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenDutton/SoftwareFrameworks/issues"
+  },
+  "homepage": "https://github.com/stevenDutton/SoftwareFrameworks#readme"
+}
